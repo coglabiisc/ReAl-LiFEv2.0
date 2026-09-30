@@ -1,0 +1,19 @@
+metadata_version: 1
+name: 'ReAl-LiFE: Rapid and accurate discovery of individualized brain connectomes on GPUs'
+description: This capsule contains codes relating to the ReAl-LiFE algorithm along with demo data. Additionally, specific scripts and related data has been made available to reproduce all figures in the main manuscript, with a README file containing detailed instructions for the same.
+authors:
+- name: Varsha Sreenivasan
+  affiliations:
+  - name: Indian Institute of Science
+- name: Sawan Kumar
+  affiliations:
+  - name: Indian Institute of Science
+- name: Franco Pestilli
+  affiliations:
+  - name: University of Texas at Austin
+- name: Partha Pratim Talukdar
+  affiliations:
+  - name: Indian Institute of Science
+- name: Devarajan Sridharan
+  affiliations:
+  - name: Indian Institute of Science
