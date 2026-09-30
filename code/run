@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+set -ex
+
+# This is the master script for the capsule. When you click "Reproducible Run", the code in this file will execute.
+matlab -nodisplay -r "addpath(genpath('.')); real_life(1,'/data/demo data/WB_1M.tck',500,0,0,1);"
